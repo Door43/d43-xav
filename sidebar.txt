@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xav:home|Door43 (xav)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xav|d43-xav repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xav/archive/master.zip|d43-xav.zip]]
+
+**Recent Changes**
+{{changes>ns = xav}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xav|Ethnologue data]]
+
